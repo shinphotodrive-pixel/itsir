@@ -1,0 +1,6 @@
+{
+  "name": "ITS 하이브리드 투광기 기술 분석 대시보드",
+  "description": "지능형 교통 단속 시스템(ITS) IR 및 가시광 듀얼 투광기 기술 분석, 광학 파장 시뮬레이터 및 시장 제품 비교 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
